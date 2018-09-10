@@ -1,0 +1,23 @@
+{
+    "name": "educationcontracts",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "dependencies": {
+        "ethereumjs-util": "^5.2.0"
+    },
+    "devDependencies": {
+        "@digix/doxity": "^0.5.2"
+    },
+    "scripts": {
+   },
+    "repository": {
+        "type": "git",
+        "url": "https://gitee.com/BlueCefa-Education/EducationContracts.git"
+    },
+    "author": "TinyCalf",
+    "license": "ISC"
+}
